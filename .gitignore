@@ -1,1 +1,6 @@
+# Jetbrains excludes
 .idea
+
+# Structural
+vendor
+/tests/.phpunit.result.cache
