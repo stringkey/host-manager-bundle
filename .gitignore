@@ -4,3 +4,7 @@
 # Structural
 vendor
 /tests/.phpunit.result.cache
+
+# dev
+composer.lock
+
