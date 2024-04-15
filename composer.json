@@ -1,0 +1,13 @@
+{
+  "name": "stringkey/host-manager-bundle",
+  "type": "symfony-bundle",
+  "description": "helpers to manage server and service hosts within a domain",
+  "keywords": ["php", "symfony", "hosts", "managment tools"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Erik van de Laar",
+      "email": "stringkey@wxs.nl"
+    }
+  ]
+}
